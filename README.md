@@ -2,7 +2,7 @@
 
 This is a school project: a simple command-line based Coffee Ordering System developed in Python. It handles basic functionality such as user login/registration, placing orders, leaving feedback, and managing profiles.
 
-## 🚀 Features
+## Features
 
 - User Account Creation and Login
 - Coffee Order Placement
@@ -16,7 +16,7 @@ This is a school project: a simple command-line based Coffee Ordering System dev
 - `sqlite3` (or your chosen DB module)
 - Standard libraries (`os`, `getpass`, etc.)
 
-## 📦 Requirements
+## Requirements
 
 Install the dependencies with:
 
@@ -24,7 +24,7 @@ Install the dependencies with:
 pip install -r requirements.txt
 ```
 
-## 🧪 How to Run
+## How to Run
 
 Run the main program with:
 
@@ -32,10 +32,12 @@ Run the main program with:
 python main.py
 ```
 
-## ⚠️ Notes
-
-- Default SQL passwords have been redacted for safety. Replace `'your_password_here'` with your actual password in the appropriate scripts.
+##  Notes
+- Default SQL passwords have been redacted for safety. You must replace the password and database name in [main.py](main.py) and [prerequisites.py](prerequisites.py)
 - This project is for educational purposes only.
+- There are known errors in the project that haven't been fixed. When using, please make sure to work on the errors first.
+- Feel free to fork this project and submit pull requests — contributions to improve the code or fix bugs are always welcome!
+
 
 ## 📄 License
 
