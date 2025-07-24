@@ -8,12 +8,12 @@ This is a school project: a simple command-line based Coffee Ordering System dev
 - Coffee Order Placement
 - Profile Viewing and Editing
 - Rating and Feedback System
-- Simple File-based or SQL-based Backend (adjust as needed)
+- Simple SQL-based Backend
 
 ## 🛠 Technologies Used
 
 - Python 3
-- `sqlite3` (or your chosen DB module)
+- `mysqlconnector - python`
 - Standard libraries (`os`, `getpass`, etc.)
 
 ## Requirements
