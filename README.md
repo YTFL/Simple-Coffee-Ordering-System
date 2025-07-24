@@ -39,6 +39,6 @@ python main.py
 - Feel free to fork this project and submit pull requests — contributions to improve the code or fix bugs are always welcome!
 
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
